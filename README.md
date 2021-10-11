@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+---
+typora-root-url: ./
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Find the invisible ybb!
 
-## Available Scripts
+this project is formed by create-react-app and antd,and inspired by [Mike Berman](https://berman.xyz/)' [Find the Invisible Cow](https://findtheinvisiblecow.com/),with it different,the Cow is replaced by [七海Nana7mi](https://space.bilibili.com/434334701)——who is a vtb in bilibili and be well known as ~~the 6th of AOUSL~~ 
 
-In the project directory, you can run:
+## what's ASOUL?(引！)
 
-### `yarn start`
+[A-SOUL](https://space.bilibili.com/703007996/) 是小姐姐们用动捕技术展现出的3D虚拟形象,是国内首个由娱乐公司运营的虚拟偶像企划。团队由五位性格、 特长、爱好各异的女孩组成。
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* [嘉然今天吃什么](https://space.bilibili.com/672328094)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  ![diana](/img/diana.webp)
 
-### `yarn test`
+* [向晚大魔王](https://space.bilibili.com/672346917)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ![ava](/img/ava.webp)
 
-### `yarn build`
+* [贝拉kira](https://space.bilibili.com/672353429)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  ![bella](/img/bella.webp)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [乃琳Queen](https://space.bilibili.com/672342685)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  ![eileen](/img/eileen.webp)
 
-### `yarn eject`
+* [珈乐Carol](https://space.bilibili.com/351609538)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  ![carol](/img/carol.webp)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## learn more
 
-## Learn More
+[ASOUL FAN](https://www.asoulfan.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[ ASOULFAN | WIKI](https://wiki.asoulfan.com/zh/home)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[枝网查重 (asoulcnki.asia)](https://asoulcnki.asia/)
 
-### Code Splitting
+[A-SOUL Video (asoul.video)](https://asoul.video/#/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[A-SOUL Fans Art - 一个魂的二创 (asoul.cloud)](https://asoul.cloud/)
 
-### Analyzing the Bundle Size
+[枝江方言词典 (asoulbook.top)](https://asoulbook.top/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
