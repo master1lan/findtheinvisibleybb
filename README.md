@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # Find the invisible ybb!
 
 this project is formed by create-react-app and antd,and inspired by [Mike Berman](https://berman.xyz/)' [Find the Invisible Cow](https://findtheinvisiblecow.com/),with it different,the Cow is replaced by [七海Nana7mi](https://space.bilibili.com/434334701)——who is a vtb in bilibili and be well known as ~~the 6th of AOUSL~~ 
