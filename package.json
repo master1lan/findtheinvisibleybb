@@ -2,6 +2,7 @@
   "name": "findtheinvisibleybb",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -32,6 +33,7 @@
       "not op_mini all"
     ],
     "development": [
+      
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
