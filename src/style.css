@@ -1,0 +1,7 @@
+#yourImg {
+    cursor: pointer;
+    content: url(./img/ybb.jpg);
+    width: 80px;
+    opacity: 0.0;
+    transition: width 0.5s;
+}
