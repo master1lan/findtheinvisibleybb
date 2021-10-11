@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,SACI,cAAe,CACf,gDAA2B,CAC3B,UAAW,CACX,SAAY,CACZ,oBACJ","file":"main.327c2d37.chunk.css","sourcesContent":["#yourImg {\r\n    cursor: pointer;\r\n    content: url(./img/ybb.jpg);\r\n    width: 80px;\r\n    opacity: 0.0;\r\n    transition: width 0.5s;\r\n}"]}
