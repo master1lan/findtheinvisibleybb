@@ -2,6 +2,9 @@
 
 this project is formed by create-react-app and antd,and inspired by [Mike Berman](https://berman.xyz/)' [Find the Invisible Cow](https://findtheinvisiblecow.com/),with it different,the Cow is replaced by [七海Nana7mi](https://space.bilibili.com/434334701)——who is a vtb in bilibili and be well known as ~~the 6th of AOUSL~~ 
 
+# example page
+https://master1lan.github.io/findtheinvisibleybb/
+
 ## what's ASOUL?(引！)
 
 [A-SOUL](https://space.bilibili.com/703007996/) 是小姐姐们用动捕技术展现出的3D虚拟形象,是国内首个由娱乐公司运营的虚拟偶像企划。团队由五位性格、 特长、爱好各异的女孩组成。
